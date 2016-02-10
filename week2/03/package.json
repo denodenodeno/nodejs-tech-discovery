@@ -1,0 +1,16 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denislav Ganchev",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "node-cron": "^1.0.0",
+    "request": "^2.69.0"
+  }
+}
