@@ -1,0 +1,13 @@
+{
+  cwd: "/Users/deno/dev__projects/courses/nodejs-tech-discovery/nodejs-tech-discovery-code/week5/01",
+  nodeEnv: "[object process]",
+  nodeVersion: "4.6.85.31",
+  processorArchitecture: "x64",
+  platform: "darwin",
+  argv: [
+    "/usr/local/bin/node",
+    "/Users/deno/dev__projects/courses/nodejs-tech-discovery/nodejs-tech-discovery-code/week5/01/bin/www"
+  ],
+  host: "localhost:3000",
+  timestamp: new Date('2016-02-15T06:56:01.765Z')
+}
